@@ -9,7 +9,7 @@
 
 This project was developed with the following technologies:
 
-- [BootStrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## How To Use
 
